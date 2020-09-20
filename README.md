@@ -1,6 +1,8 @@
 # Eat_Green_App
 
 ![](EatGreen_1.png | width=100)
+<img src="EatGreen_1.png" width="40%">
+<img src="image" width="40%">
 ![](EatGreen_2.png | width=100)
 
 This iOS iphone app gives students the ability to look up a cafeteria
