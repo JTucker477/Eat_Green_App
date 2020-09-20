@@ -1,5 +1,8 @@
 # Eat_Green_App
 
+![](EatGreen_1.png)
+![](EatGreen_2.png)
+
 This iOS iphone app gives students the ability to look up a cafeteria
 food item and to then get a letter grade reflecting the environmental
 impact of the food. I used information about the top carbon producing
