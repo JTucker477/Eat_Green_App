@@ -1,9 +1,7 @@
 # Eat_Green_App
 
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
-<img src="EatGreen_1.png" width="20%">
-<img src="EatGreen_2.png" width="20%">
+<img src="EatGreen_1.png" width="20%"> <img src="EatGreen_2.png" width="20%">
 
 
 
