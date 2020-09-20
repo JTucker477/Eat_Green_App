@@ -1,7 +1,7 @@
 # Eat_Green_App
 
 
-<img src="EatGreen_1.png" width="20%"> <img src="EatGreen_2.png" width="20%" height = "80%">
+<img src="EatGreen_1.png" width = "20%" height="80%"> <img src="EatGreen_2.png" width="20%" >
 
 
 
