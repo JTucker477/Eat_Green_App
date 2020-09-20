@@ -1,7 +1,7 @@
 # Eat_Green_App
 
-![](EatGreen_1.png=250x100)
-![](EatGreen_2.png=250x100)
+![](EatGreen_1.png =250x100)
+![](EatGreen_2.png =250x100)
 
 This iOS iphone app gives students the ability to look up a cafeteria
 food item and to then get a letter grade reflecting the environmental
